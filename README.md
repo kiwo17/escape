@@ -27,11 +27,11 @@ Since I wanted to create an original design, of my own, I began by sketching dif
 
 Figuring out Onshape, a designing tool online, was also a bit of a challenge. After spending some time exploring, I began designing the first individual parts of the escape. 
 
-For me, the most challenging phase was definitely determining the function of each individual piece and how the different pieces would interlock in each other. During the research phase, I wrote a potential solution path for the cube using a binary system for, which I believed would be useful for the future. 
+For me, the most challenging phase was definitely determining the function of each individual piece and how the different pieces would interlock in each other. During the research phase, I wrote a potential solution path for the cube using a binary system, which I believed would be useful for the future. 
 
 However, I didn't use it. 
 
-The Idea of writing the rules and path in a binary system is neither ineffective nor is it advantageous. It largely depends on the puzzle and its designer. I would recommend experimenting with different methods until you find the one that best suits. For me reverse engineering proved to be the most effective approach method.  
+The Idea of writing the rules and path in a binary system is neither ineffective nor is it advantageous. It largely depends on the puzzle and its designer. I would recommend experimenting with different methods until you find the one that best suits. For me reverse engineering proved to be the most effective method.  
 
 ### Currently working on ...
 
