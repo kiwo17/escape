@@ -2,7 +2,7 @@
 
 The escape is a small puzzle box containing a hidden message.
 
-![design](images/prototype.png)
+![design](images/locked.png)
 
 
 ## Inspiration
@@ -32,18 +32,14 @@ For me, the most challenging phase was definitely determining the function of ea
 However, I didn't use it. 
 
 The Idea of writing the rules and path in a binary system is neither ineffective nor is it advantageous. It largely depends on the puzzle and its designer. I would recommend experimenting with different methods until you find the one that best suits. For me reverse engineering proved to be the most effective method.  
-
-### Currently working on ...
-
-	- adding features
  
 ### Next steps ... 
 
-	- finish the design
+	- assemble it
 
 ## Tools 
 
 For this project I am using:
 
 	- Onshape
-
+	- PrusaSlicer
