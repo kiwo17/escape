@@ -4,17 +4,17 @@ The escape is a small puzzle box containing a hidden message.
 
 ![design](images/locked.png)
 
-
-## Inspiration
-
 As a kid I absolutely loved puzzles of any kind but as I grew older my priorities changed and I haven't touched one since then.
 So I've decided to use this opportunity to reconnect with my inner child once again by creating a puzzle box. 
 
-## Project
+## About the project
 
 The escape contains 6 sides, which are interlocked in each other. They are put together to confuse you and trick you into doing the wrong move. 
 
 The Goal -> Give it to a different person. They shall find the correct path for the hidden message (a small object is also possible) you wrote. 
+
+
+![open](images/open.png)
 
 ## Process
 
@@ -43,3 +43,11 @@ For this project I am using:
 
 	- Onshape
 	- PrusaSlicer
+
+# BOM 
+
+| Item                  | Qty | Supplier | Cost/item | Total Cost | Link             |
+|-----------------------|----:|----------|----------:|-----------:|------------------|
+| THE PIECES            | 1   | 11d.ch   | $23.73    | $23.73     | https://11d.ch/  |
+| Estimated total shipping | 1 |          |           | $9.08      |                  |
+### Total cost : $32.81
