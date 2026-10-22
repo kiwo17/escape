@@ -37,6 +37,13 @@ The Idea of writing the rules and path in a binary system is neither ineffective
 
 	- assemble it
 
+## Do it yourself!
+
+Here is a step by step instruction on how to assemble the escape -> [assembly](assembly/assembly_steps)
+
+### Printing settings
+
+
 ## Tools 
 
 For this project I am using:
