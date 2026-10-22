@@ -39,7 +39,7 @@ The Idea of writing the rules and path in a binary system is neither ineffective
 
 ## Do it yourself!
 
-Here is a step by step instruction on how to assemble the escape -> [assembly](assembly/assembly_steps)
+Here is a step by step instruction on how to assemble the escape -> [assembly](assembly/assembly_steps.md)
 
 ### Printing settings
 
