@@ -43,6 +43,12 @@ Here is a step by step instruction on how to assemble the escape -> [assembly](a
 
 ### Printing settings
 
+Filament: PLA
+Layer height: 0.16 mm (fine)
+Wall loops: 2 
+Infill: 20%
+3D model format: 3MF or STL
+Volume of the cube ~ 201.1939 cm³
 
 ## Tools 
 
