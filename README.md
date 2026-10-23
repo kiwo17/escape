@@ -2,6 +2,8 @@
 
 The escape is a small puzzle box containing a hidden message.
 
+[Onshape demo URL](https://cad.onshape.com/documents/bdf771932500879001185409/w/ee8b3a967bc723fae8c0e5e6/e/5f80277a051db75e047d44b9)
+
 ![design](images/locked.png)
 
 As a kid I absolutely loved puzzles of any kind but as I grew older my priorities changed and I haven't touched one since then.
