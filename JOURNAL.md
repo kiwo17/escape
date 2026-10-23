@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv5ievd50j2u01n0r5lv3z5s). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> the espace is a small puzzle box, which contains a hidden message when solved. It requires a combination of puzzles for it to open up.
+> the espace is a small puzzle box, which contains a hidden message inside. It requires a logic path for it to open up.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
