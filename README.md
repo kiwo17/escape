@@ -18,8 +18,6 @@ The Goal -> Give it to a different person. They shall find the correct path for 
 
 ## Process
 
-🚧This project is still a work in Progress🚧
-
 This project turned out to be considerably more complex than I had initially imagined, especially at the beginning.  
 
 My first step was to research the mechanisms of puzzle boxes in order to understand their construction. 
