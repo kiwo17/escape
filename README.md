@@ -67,6 +67,6 @@ For this project I am using:
 
 | Item                  | Qty | Supplier | Cost/item | Total Cost | Link             |
 |-----------------------|----:|----------|----------:|-----------:|------------------|
-| THE PIECES            | 1   | 11d.ch   | $23.73    | $23.73     | https://11d.ch/  |
-| Estimated total shipping | 1 |          |           | $9.08      |                  |
-### Total cost : $32.81
+| THE PIECES            | 1   | jolomolokolo  | $4.75   | 4.75    | [printlegion](https://printlegion.hackclub.com/)  |
+| Estimated total shipping | 1 |          |           | $9.9    |                  |
+### Total cost : $14.65
